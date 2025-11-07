@@ -1,70 +1,74 @@
 <!--
-  Professional GitHub Profile README for Vahid Hassanzadeh
-  Replace labeled placeholders for social links, website, and email as needed.
+  Professional GitHub Profile for Vahid Hassanzadeh
+  Mechanical Engineering | Control Systems Focus
 -->
 
-<h1 align="center">Hi there 👋, I'm <strong>Vahid Hassanzadeh</strong></h1>
+<h1 align="center">Vahid Hassanzadeh</h1>
 
 <p align="center">
-  Engineering PhD aspirant in <strong>Control systems & Robotics</strong>, exploring ambitious solutions in automation and intelligent machines.<br/>
-  Creating, collaborating, and learning with a growth mindset.
+  Mechanical Engineering student specializing in <strong>Control Systems</strong>, with hands-on experience in dynamics modeling, simulation, and classical control theory. Driven by curiosity to solve real-world stability and optimization challenges through analytical and computational approaches.
 </p>
 
 ---
 
-### 🚀 What I'm Currently Learning
-- Model predictive control, nonlinear & optimal control strategies
-- Embedded integration with real-time systems
-- International research opportunities & academic conference writing
+### 🌱 Currently Learning
+- Advanced PID tuning methods and frequency-domain analysis
+- State-space representation and modern control techniques
+- Embedded systems for real-time control applications
 
-### 🌱 My Interests & Ambitions
-- Autonomous vehicles, sensor calibration & data fusion
-- Wind turbine control, renewable energy technology
-- Open-source robotics frameworks and multi-agent system design
+### ⚙️ Technical Areas
+- **Dynamics & Modeling**: Mechanical systems, transfer functions, linearization
+- **Control Theory**: PID, root locus, Bode plots, stability analysis
+- **Tools**: MATLAB, Simulink, Python (NumPy, SciPy, Control)
+- **Simulation**: System identification, parameter estimation, response analysis
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tools & Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Simulink-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Stats & Streaks
+### 📚 Highlighted Project
+
+#### **PID-Controlled Inverted Pendulum (MATLAB + Simulink)**
+
+The inverted pendulum is a classical benchmark in control theory, widely used to demonstrate stability principles and controller design. This project showcases:
+
+- Nonlinear dynamics modeling using Lagrangian mechanics
+- System linearization around the unstable equilibrium point
+- PID controller design with manual and automated tuning
+- Stability analysis through root locus and step response evaluation
+- Simulink-based simulation with real-time visualization
+
+**This repository demonstrates foundational control concepts essential for advanced coursework and research.** Professors and reviewers are encouraged to explore the implementation details and results.
+
+---
+
+### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apex-pulse&show_icons=true&theme=calm" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apex-pulse&theme=calm" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=apex-pulse&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apex-pulse&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
 
-### 🤝 Let's Connect!
+### 💻 Connect
 
-- [LinkedIn](https://linkedin.com/in/PLACEHOLDER_LINK)
-- [Twitter/X](https://twitter.com/PLACEHOLDER_LINK)
-- [Personal Website](https://PLACEHOLDER_WEBSITE)
-- [Email](mailto:PLACEHOLDER_EMAIL)
-- <!-- Replace placeholders above with your actual info -->
-
----
-
-<p align="center"><sub>Driven by curiosity. Growing through collaboration. 🚀</sub></p>
+- **Email**: [your.email@domain.com](mailto:your.email@domain.com)
+- **LinkedIn**: [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)
+- **ResearchGate**: [researchgate.net/profile/YOUR_PROFILE](https://researchgate.net/profile/YOUR_PROFILE)
+- **Google Scholar**: [scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=YOUR_ID)
 
 ---
 
-<details>
-  <summary><strong>How to set up your GitHub profile README</strong></summary>
-
-  1. Create a repository named exactly as your GitHub username (`apex-pulse`).
-  2. Add a file called `README.md` to that repository.
-  3. Paste and personalize this template.
-  4. Commit and push the changes. Your README will be visible on your GitHub profile!
-</details>
+<p align="center"><sub>Committed to rigorous learning and meaningful contributions to control systems research.</sub></p>
