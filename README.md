@@ -64,10 +64,8 @@ The inverted pendulum is a classical benchmark in control theory, widely used to
 
 ### 💻 Connect
 
-- **Email**: [your.email@domain.com](mailto:your.email@domain.com)
-- **LinkedIn**: [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)
-- **ResearchGate**: [researchgate.net/profile/YOUR_PROFILE](https://researchgate.net/profile/YOUR_PROFILE)
-- **Google Scholar**: [scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=YOUR_ID)
+- **Email**: [email@domain.com](mailto:your.email@domain.com)
+- **LinkedIn**: [www.linkedin.com/in/vahid-hassanzadeh](www.linkedin.com/in/vahid-hassanzadeh-041470391)
 
 ---
 
